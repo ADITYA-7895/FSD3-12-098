@@ -11,3 +11,7 @@ one of the most important module in node.js ,originally designed for building sc
 
 HTTP---> HYPER TEXT TRANSFER PROTOCOL
 HTML---> HYPER TEXT MARKUP LANGUAGE
+commands for today
+npm init -y
+npm i nodemon -D
+npm run dev
