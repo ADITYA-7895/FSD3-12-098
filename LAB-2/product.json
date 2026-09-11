@@ -16,5 +16,15 @@
     "name": "Akshat",
     "price": 1000000,
     "qty": 5
+  },
+  {
+    "id": null,
+    "price": null,
+    "qty": null
+  },
+  {
+    "id": null,
+    "price": null,
+    "qty": null
   }
 ]
